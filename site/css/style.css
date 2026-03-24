@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Jacquard+24&display=swap');
+
+h1 {
+    font-family:"Jacquard 24", system-ui;
+    font-size:15em;
+    font-style: normal;
+    color:black;
+}
+
+h2{
+    font-family:'Helvetica';
+    font-weight:bold;
+}
+
+nav {
+    font-family:'Helvetica'
+}
+
+p {
+    font-family:'Helvetica'
+}
+
+.container {
+    padding:30px;
+}
+
+hr {
+    border: 2px solid blue;
+    opacity:1;
+}
+
+body{
+    background-image: linear-gradient(to bottom, rgba(0, 0, 255, 1) 0px, rgba(219, 221, 255, 1) 180px, rgba(255, 255, 255, 1) 400px);
+     background-repeat: no-repeat;
+}
+
